@@ -1,8 +1,6 @@
 ### It's Allison
 I'm a software engineer and UI/UX designer based out of Phoenix, Arizona.
 
-Currently I’m focused on my master’s degree at Arizona State. My favorite classes have been related to machine learning and natural language processing.
-
 <!--
 **allison-lowe/allison-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
