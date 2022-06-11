@@ -52,8 +52,8 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 ## Education
 
 ### Arizona State University
-  * 📚 BS Computer Science
-  * ✏️ MS Computer Science - In progress
+  * BS Computer Science
+  * MS Computer Science - In progress
 
 ## How to reach me:
 
