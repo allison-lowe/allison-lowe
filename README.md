@@ -41,7 +41,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ## Skills
+## Education
+
+### Arizona State University
+  * BS Computer Science
+  * MS Computer Science - In progress
+
+## Skills
 
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](#)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](#)
@@ -62,12 +68,7 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](#)
 [![]()](#)
 [![]()](#)
- -->
-## Education
 
-### Arizona State University
-  * BS Computer Science
-  * MS Computer Science - In progress
 
 ## How to reach me:
 
