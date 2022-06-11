@@ -67,7 +67,6 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](#)
 [![]()](#)
-[![]()](#)
 
 
 ## How to reach me:
@@ -77,4 +76,5 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 🔗 [in/allisonlowee](https://www.linkedin.com/in/allisonlowee/)
 
 [![]()](#)
-
+[![]()](#)
+[![](https://web.archive.org/web/20091027035610im_/http://es.geocities.com/melgarbeatles6/barraconstruction.gif)](#)
