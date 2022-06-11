@@ -69,7 +69,7 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [![]()](#)
 
 
-## Quixk Links
+## Quick Links
 * 📌 [Allison's Business and Leadership Reading List](https://ambiguous-comet-a58.notion.site/8d1711206b4b47b8803fedb417d53a89?v=10107a82c5ce41e68de0f9de1b2747b5)
 
 ## How to reach me:
