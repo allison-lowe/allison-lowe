@@ -1,5 +1,5 @@
 ### ... It's Allison
-I’m a MS Computer Science student at Arizona State University. I have 3 years of experience building and deploying software applications, ranging from **full-stack web apps** to **machine learning** and **natural language processing** models. One thing about me, I'm never bored.
+I’m a MS Computer Science student at Arizona State University. I have 3 years of experience building and deploying software applications, ranging from **full-stack web apps** to **machine learning** and **natural language processing** models.
 
 <!-- The beauty of God is revealed in all things. -->
 
