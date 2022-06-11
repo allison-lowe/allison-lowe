@@ -11,6 +11,21 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
 
 * 🥋 I train Muay Thai and Brazillian Jiu Jitsu. Don't fuck with me.
 
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/blessed.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/amazing.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/angelic.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hot.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/innocent.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/kickbutt.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/splendid.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/schizophrenic.gif)](#)
+<!-- [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/queen.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/ok.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/weird.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/geeky.gif)](#)
+[![]()](#)
+[![]()](#)
+[![]()](#) -->
 
 <!--
 **allison-lowe/allison-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
