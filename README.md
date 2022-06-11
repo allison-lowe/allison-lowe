@@ -1,5 +1,16 @@
-### It's Allison
-I'm a software engineer and UI/UX designer based out of Phoenix, Arizona.
+### ... It's Allison
+I’m a MS Computer Science student at Arizona State University. I have 3 years of experience building and deploying software applications, ranging from **full-stack web apps** to **machine learning** and **natural language processing** models. One thing about me, I'm never bored.
+
+<!-- The beauty of God is revealed in all things. -->
+
+* ✈️  Currently, I’m working at **American Airlines** as a full-stack developer, where I’m building web apps using Angular.
+
+* 🎨 Over the summer, I have been enrolled in some creative classes with **[Kadenze](https://www.kadenze.com/)**:
+  * [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv)
+  * [Machine learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v)
+
+* 🥋 I train Muay Thai and Brazillian Jiu Jitsu. Don't fuck with me.
+
 
 <!--
 **allison-lowe/allison-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +43,6 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](#)
 [![](https://img.shields.io/badge/Jest-323330?style=flat&logoColor=white)](#)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#)
-[![](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)](#)
 [![](https://img.shields.io/badge/adafruit-000000?style=flat&logo=adafruit&logoColor=white)](#)
 [![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)](#)
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](#)
