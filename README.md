@@ -20,12 +20,9 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/splendid.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/schizophrenic.gif)](#)
 <!-- [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/queen.gif)](#)
-[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/ok.gif)](#)
-[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/weird.gif)](#)
-[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/geeky.gif)](#)
-[![]()](#)
-[![]()](#)
-[![]()](#) -->
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/thuggish.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hidden.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/__acomplished.gif)](#) -->
 
 <!--
 **allison-lowe/allison-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
