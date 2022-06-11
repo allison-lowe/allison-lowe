@@ -1,4 +1,5 @@
-### ... It's Allison
+[![](https://i.imgur.com/nfWvFBG.png)](#)
+
 I’m a MS Computer Science student at Arizona State University. I have 3 years of experience building and deploying software applications, ranging from **full-stack web apps** to **machine learning** and **natural language processing** models.
 
 <!-- The beauty of God is revealed in all things. -->
@@ -19,10 +20,11 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/kickbutt.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/splendid.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/schizophrenic.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/__acomplished.gif)](#)
 <!-- [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/queen.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/thuggish.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hidden.gif)](#)
-[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/__acomplished.gif)](#) -->
+ -->
 
 <!--
 **allison-lowe/allison-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+<!-- ## Skills
 
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)](#)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](#)
@@ -60,7 +62,7 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](#)
 [![]()](#)
 [![]()](#)
-
+ -->
 ## Education
 
 ### Arizona State University
