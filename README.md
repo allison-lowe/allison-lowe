@@ -26,21 +26,6 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hidden.gif)](#)
  -->
 
-<!--
-**allison-lowe/allison-lowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Education
 
 ### Arizona State University
@@ -72,7 +57,7 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 ## Quick Links
 * 🎧 [What I'm listening to](https://open.spotify.com/playlist/2bE0pkdnCdSGxzs0qU4jto?si=f698a8b638394ed5)
 * 📌 [Allison's Business and Leadership Reading List](https://ambiguous-comet-a58.notion.site/8d1711206b4b47b8803fedb417d53a89?v=10107a82c5ce41e68de0f9de1b2747b5)
-
+* 👩🏼‍💻 [Technical Interview Cheat Sheet](https://ambiguous-comet-a58.notion.site/Technical-Interview-Cheat-Sheet-e7b7b8ec3bbd458ebf8daa921caa8490)
 ## How to reach me:
 
 📧 [allisonlowee@gmail.com](mailto:allisonlowee@gmail.com)
