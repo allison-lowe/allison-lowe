@@ -9,6 +9,7 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
 * 🎨 Over the summer, I have been enrolled in some creative classes with **[Kadenze](https://www.kadenze.com/)**:
   * [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv)
   * [Machine learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v)
+  * [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.kadenze.com/courses/web-coding-fundamentals-html-css-and-javascript)
 
 * 🥋 I train Muay Thai and Brazillian Jiu Jitsu. Don't fuck with me.
 
