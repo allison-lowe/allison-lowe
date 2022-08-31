@@ -11,7 +11,6 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
   * [Machine learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v)
   * [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.kadenze.com/courses/web-coding-fundamentals-html-css-and-javascript)
 
-* 🥋 I train Muay Thai and Brazillian Jiu Jitsu. Don't fuck with me.
 
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/blessed.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/amazing.gif)](#)
