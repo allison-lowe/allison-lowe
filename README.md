@@ -4,10 +4,11 @@
 
 * ✈️  Currently, I’m working at **American Airlines** as a full-stack developer, where I’m building apps that keep our planes flying safely.
 
+<!--
+
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/blessed.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/amazing.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/angelic.gif)](#)
-<!--
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hot.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/innocent.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/kickbutt.gif)](#)
