@@ -1,27 +1,19 @@
 [![](https://i.imgur.com/nfWvFBG.png)](#)
 
-I’m a MS Computer Science student at Arizona State University. I have 3 years of experience building and deploying software applications, ranging from **full-stack web apps** to **machine learning** and **natural language processing** models.
-
 <!-- The beauty of God is revealed in all things. -->
 
-* ✈️  Currently, I’m working at **American Airlines** as a full-stack developer, where I’m building web apps using Angular.
-
-* 🎨 Over the summer, I have been enrolled in some creative classes with **[Kadenze](https://www.kadenze.com/)**:
-  * [Physics-Based Sound Synthesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv)
-  * [Machine learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v)
-  * [Web Coding Fundamentals: HTML, CSS and Javascript](https://www.kadenze.com/courses/web-coding-fundamentals-html-css-and-javascript)
-
+* ✈️  Currently, I’m working at **American Airlines** as a full-stack developer, where I’m building apps that keep our planes flying safely.
 
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/blessed.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/amazing.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/angelic.gif)](#)
+<!--
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hot.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/innocent.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/kickbutt.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/splendid.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/schizophrenic.gif)](#)
-[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/__acomplished.gif)](#)
-<!-- [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/queen.gif)](#)
+[![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/__acomplished.gif)](#) [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/queen.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/thuggish.gif)](#)
 [![](https://web.archive.org/web/20091027041145im_/http://www.geocities.com/sportybear13/hidden.gif)](#)
  -->
@@ -30,7 +22,6 @@ I’m a MS Computer Science student at Arizona State University. I have 3 years 
 
 ### Arizona State University
   * BS Computer Science
-  * MS Computer Science - In progress
 
 ## Skills
 
@@ -53,11 +44,6 @@ https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)](#)
 [![]()](#)
 
-
-## Quick Links
-* 🎧 [What I'm listening to](https://open.spotify.com/playlist/2bE0pkdnCdSGxzs0qU4jto?si=f698a8b638394ed5)
-* 📌 [Allison's Business and Leadership Reading List](https://ambiguous-comet-a58.notion.site/8d1711206b4b47b8803fedb417d53a89?v=10107a82c5ce41e68de0f9de1b2747b5)
-* 👩🏼‍💻 [Technical Interview Cheat Sheet](https://ambiguous-comet-a58.notion.site/Technical-Interview-Cheat-Sheet-e7b7b8ec3bbd458ebf8daa921caa8490)
 ## How to reach me:
 
 📧 [allisonlowee@gmail.com](mailto:allisonlowee@gmail.com)
